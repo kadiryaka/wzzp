@@ -68,6 +68,16 @@ require(['jquery',
                         title: String(xhr.status),
                         icon: '<i class="icon icon-exclamation-sign"></i>'
                     });
+                } else if (xhr.status==401) {
+                    notes.show(i18n.t("error.bad_token"), {
+                        type: 'danger',
+                        title: String(xhr.status),
+                        icon: '<i class="icon icon-exclamation-sign"></i>'
+                    });
+
+                    $.removeCookie(constants.token_name);
+                    $.removeCookie(constants.cookie_username);
+                    window.location = constants.hash;
                 } else {
                     notes.show(i18n.t("error.fuckedup_error"), {
                         type: 'danger',
