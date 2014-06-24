@@ -1,0 +1,41 @@
+{
+    "app"       :   {
+        "name"  :   "wzzp"
+    },
+    "button"    :   {
+        "exit"      :   "çek git :(",
+        "register"  :   "Kaydol",
+        "login"     :   "Giris",
+        "tr"        :   "Türkçe",
+        "en"        :   "İngilizce",
+        "home"      :   "babiş sayfa :)",
+        "about"     :   "Hakkında"
+    },
+    "placeholder"   :   {
+        "username"  :   "kullanıcı adın",
+        "password"  :   "parolan",
+        "mail"      :   "epostan"
+    },
+    "text"  :   {
+        "hi"                :   "Merhaba",
+        "registeredDate"    :   "Kayıt Anı",
+        "email"             :   "E-Mail",
+        "rememberPassword"  :   "Parolamı Unuttum",
+        "welcome"           :   "Hosgeldin"
+    },
+    "error" :   {
+        "server_error"                  :   "Sunucuya Erişilemiyor",
+        "notfound_error"                :   "İstek Gönderdiğiniz Adres Hatalı",
+        "fuckedup_error"                :   "Bilinmeyen Hata Oluştu",
+        "bad_token"                     :   "Çerezlerinizde Sorun Var!",
+        "wrong_username_or_password"    :   "Kullanıcı Adı ya da Parolanız Hatalı",
+        "not_activated"                 :   "Hesabınız aktif edilmemiş, lütfen epostanızı kontrol ediniz!",
+        "not_found"                     :   "Bulunamadı!",
+        "validation_failed"             :   "Daha önceden alınmış :/"
+    },
+    "info"              :   {
+        "success" : "Başarılı",
+        "register_success" : "Son adım! Hesabının aktivasyonu için epostanı kontrol et",
+        "activate_success" : "Tamamdır artık bize katılabilirsin!"
+    }
+}
