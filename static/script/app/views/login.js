@@ -19,6 +19,10 @@ define(['jquery',
                     window.location = constants.hash+"dashboard";
                 } else {
                     $(".container").html(loginTemplate);
+                    $('#inputs').keypress(function(e){
+                        if(e.keyCode==13)
+                            $('#login_ok').click();
+                    });
                     $("html").i18n();
                 }
             },

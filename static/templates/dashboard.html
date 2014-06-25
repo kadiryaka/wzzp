@@ -1,11 +1,13 @@
-<div class="sixteen columns">
-    <h1 class="remove-bottom" style="margin-top: 40px" data-i18n="app.name"></h1>
-    <h5><%= user.get('username') %></h5>
-    <button id="lang_tr" data-i18n="button.tr"></button>
-    <button id="lang_en" data-i18n="button.en"></button>
-    <hr />
-</div>
-
-<div class="sixteen columns">
-    <button type="submit" id="dashboard_logout" data-i18n="button.exit"></button>
+<div id="wrapper">
+    <div id="box">
+        <div id="top_header">
+            <h3 data-i18n="app.name"></h3>
+            <h5><%= user.get('username') %></h5>
+        </div>
+        <di id="inputs">
+            <center>
+                <div id="dashboard_logout" data-i18n="button.exit" class="circle"></div>
+            </center>
+        </di>
+    </div>
 </div>

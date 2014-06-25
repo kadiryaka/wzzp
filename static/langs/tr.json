@@ -3,13 +3,13 @@
         "name"  :   "wzzp"
     },
     "button"    :   {
-        "exit"      :   "çek git :(",
-        "register"  :   "Kaydol",
-        "login"     :   "Giris",
-        "tr"        :   "Türkçe",
-        "en"        :   "İngilizce",
+        "exit"      :   "çek git",
+        "register"  :   "kaydol",
+        "login"     :   "giriş",
+        "tr"        :   "türkçe",
+        "en"        :   "ingilizce",
         "home"      :   "babiş sayfa :)",
-        "about"     :   "Hakkında"
+        "about"     :   "hakkında"
     },
     "placeholder"   :   {
         "username"  :   "kullanıcı adın",
@@ -17,25 +17,28 @@
         "mail"      :   "epostan"
     },
     "text"  :   {
-        "hi"                :   "Merhaba",
-        "registeredDate"    :   "Kayıt Anı",
-        "email"             :   "E-Mail",
-        "rememberPassword"  :   "Parolamı Unuttum",
-        "welcome"           :   "Hosgeldin"
+        "hi"                :   "merabaaa",
+        "registeredDate"    :   "kayıt anı",
+        "email"             :   "posta",
+        "rememberPassword"  :   "parolamı unuttum",
+        "welcome"           :   "hosgeldiiin"
     },
     "error" :   {
-        "server_error"                  :   "Sunucuya Erişilemiyor",
-        "notfound_error"                :   "İstek Gönderdiğiniz Adres Hatalı",
-        "fuckedup_error"                :   "Bilinmeyen Hata Oluştu",
-        "bad_token"                     :   "Çerezlerinizde Sorun Var!",
-        "wrong_username_or_password"    :   "Kullanıcı Adı ya da Parolanız Hatalı",
-        "not_activated"                 :   "Hesabınız aktif edilmemiş, lütfen epostanızı kontrol ediniz!",
-        "not_found"                     :   "Bulunamadı!",
-        "validation_failed"             :   "Daha önceden alınmış :/"
+        "server_error"                  :   "sunucuda bi bokluk var abey :(",
+        "notfound_error"                :   "yolumu bulamadım :/",
+        "fuckedup_error"                :   "bilemedim ki ben bu hatayı ohf .s",
+        "bad_token"                     :   "krakerler şe olmuş",
+        "wrong_username_or_password"    :   "kanki sen misin?",
+        "not_activated"                 :   "bakmamışın ki postana :(",
+        "not_found"                     :   "bulamadımkieee!",
+        "validation_failed"             :   "biri kapmış bu hatunu :/"
+    },
+    "message" : {
+        "head" : "gir bi bak içeri istersen?"
     },
     "info"              :   {
-        "success" : "Başarılı",
-        "register_success" : "Son adım! Hesabının aktivasyonu için epostanı kontrol et",
-        "activate_success" : "Tamamdır artık bize katılabilirsin!"
+        "success" : "uuubeybi!",
+        "register_success" : "posta kutuna bi bak hele bişe attım kank",
+        "activate_success" : "kızları al gel şarap da var ^^"
     }
 }

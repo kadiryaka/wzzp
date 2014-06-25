@@ -4,12 +4,12 @@
     },
     "button"    :   {
         "exit"      :   "bye :(",
-        "register"  :   "Register",
-        "login"     :   "Login",
-        "tr"        :   "Turkish",
-        "en"        :   "English",
+        "register"  :   "register",
+        "login"     :   "login",
+        "tr"        :   "turkish",
+        "en"        :   "english",
         "home"      :   "home :)",
-        "about"     :   "About"
+        "about"     :   "about"
     },
     "placeholder"   :   {
         "username"  :   "your username",
@@ -17,25 +17,28 @@
         "mail"      :   "your mail"
     },
     "text"  :   {
-        "hi"                :   "Hi",
-        "registeredDate"    :   "Registered",
-        "email"             :   "E-Mail",
-        "rememberPassword"  :   "Lost your password?",
-        "welcome"           :   "Welcome"
+        "hi"                :   "hi",
+        "registeredDate"    :   "registered",
+        "email"             :   "e-mail",
+        "rememberPassword"  :   "lost your password?",
+        "welcome"           :   "welcome"
     },
     "error" :   {
-        "server_error"                  :   "Server Unreachable",
-        "notfound_error"                :   "Request Router Not Found",
-        "fuckedup_error"                :   "Bilinmeyen Hata Oluştu",
-        "bad_token"                     :   "Wrong Cookie, Please Check It!",
-        "wrong_username_or_password"    :   "Wrong Username or Password",
-        "not_activated"                 :   "This account not activated!",
-        "not_found"                     :   "Not found!",
-        "validation_failed"             :   "Already taken :/"
+        "server_error"                  :   "server Unreachable",
+        "notfound_error"                :   "request router not found",
+        "fuckedup_error"                :   "fucked up :(",
+        "bad_token"                     :   "wrong cookie, please check it!",
+        "wrong_username_or_password"    :   "wrong username or password",
+        "not_activated"                 :   "this account not activated!",
+        "not_found"                     :   "not found!",
+        "validation_failed"             :   "already taken :/"
+    },
+    "message" : {
+        "head" : "sign in to continue to your<br> wzzp dashboard"
     },
     "info"              :   {
-        "success" : "Success",
-        "register_success" : "Success! Check your mailbox for user activation",
-        "activate_success" : "Success! Join us"
+        "success" : "success",
+        "register_success" : "success! check your mailbox for user activation",
+        "activate_success" : "success! join us"
     }
 }
