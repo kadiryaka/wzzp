@@ -1,0 +1,44 @@
+{
+    "app"       :   {
+        "name"  :   "wzzp"
+    },
+    "button"    :   {
+        "exit"      :   "adios :(",
+        "register"  :   "registrar",
+        "login"     :   "ingresar",
+        "tr"        :   "turco",
+        "en"        :   "ingles",
+        "home"      :   "inicio :)",
+        "about"     :   "sobre"
+    },
+    "placeholder"   :   {
+        "username"  :   "tu usuario",
+        "password"  :   "tu contraseña",
+        "mail"      :   "correo"
+    },
+    "text"  :   {
+        "hi"                :   "hola",
+        "registeredDate"    :   "registrate",
+        "email"             :   "e-mail",
+        "rememberPassword"  :   "¿Perdiste tu contraseña?",
+        "welcome"           :   "bienvenido"
+    },
+    "error" :   {
+        "server_error"                  :   "servidor inalcanzable",
+        "notfound_error"                :   "solicitud de ruta no encontrada",
+        "fuckedup_error"                :   "error :(",
+        "bad_token"                     :   "problema con la cookie, por favor ¡revisalo!",
+        "wrong_username_or_password"    :   "usuario o contraseña incorrecta",
+        "not_activated"                 :   "¡esta cuanta no esta activada!",
+        "not_found"                     :   "¡no se encuentra!",
+        "validation_failed"             :   "ya existe :/"
+    },
+    "message" : {
+        "head" : "inicia sesión para continuar su<br> wzzp dashboard"
+    },
+    "info"              :   {
+        "success" : "¡éxito",
+        "register_success" : "¡éxito! revisa tu bandeja de entrada para activar tu usuario",
+        "activate_success" : "¡éxito! únete a nosotros"
+    }
+}
